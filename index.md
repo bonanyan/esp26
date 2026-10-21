@@ -53,12 +53,9 @@ title: 嵌入式系统编程与实践
 
 ### 开发板资源  
 
-- 开发板型号: CanMV K230
-  - 例程+开发板资料：[https://wiki.01studio.cc/docs/canmv_k230/getting_start/canmv_ide/](https://wiki.01studio.cc/docs/canmv_k230/getting_start/canmv_ide/)
-
-- 开发板型号：PaddlePi (K210)
-  - 例程：[https://github.com/kendryte/PaddlePi/tree/master/standalone-demos](https://github.com/kendryte/PaddlePi/tree/master/standalone-demos)
-  - 开发板资料见[北大教学网](http://course.pku.edu.cn)-教学内容
+- 开发板型号: 01 Studio K230
+- [\[文档\]](https://wiki.01studio.cc/docs/canmv_k230/getting_start/canmv_ide/)
+- K230 MicroPython 镜像 [\[下载\]](https://download.kendryte.com/developer/releases/canmv_k230_micropython/daily_build/?lang=zh)
 
 ## 主要参考书：
 
